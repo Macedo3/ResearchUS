@@ -1,8 +1,8 @@
-<h1 style="text-align:center;">Macro Report - United States</h1>
+# <div style="text-align:center;">Macro Report - United States</div>
 
-<h2 style="text-align:center;">Gabriel de Macedo Santos</h2>
+## <div style="text-align:center;">Gabriel de Macedo Santos</div>
 
-<h3 style="text-align:center;">Macroeconomic Scenario <strong>United States</strong></h3>
+## <div style="text-align:center;">Macroeconomic Scenario <strong>United States</strong></div>
 
 ### American Consumer Price Index (CPI)
 
